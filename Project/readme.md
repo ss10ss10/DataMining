@@ -6,4 +6,5 @@
 ## Tasks:<br />
 1. Histogram Features<br />
 2. Dimensionality Reduction with PCA<br />
-3. Deep Learning based features
+3. Deep Learning based features<br />
+Use this link to display the notebook: https://nbviewer.org/
